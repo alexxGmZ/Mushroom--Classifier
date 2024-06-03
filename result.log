@@ -1,0 +1,240 @@
+1 INPUT: convex, smooth, brown, yes, pungent, free, close, narrow, black, enlarging, equal, smooth, smooth, white, white, partial, white, one, pendant, black, scattered, urban
+1 EDIBLE PROBABILITY: 1.3223715619603e-29
+1 POISONOUS PROBABILITY: 1.2756050992962e-13
+1 CLASS: poisonous
+
+2 INPUT: convex, smooth, yellow, yes, almond, free, close, broad, black, enlarging, club, smooth, smooth, white, white, partial, white, one, pendant, brown, numerous, grasses
+2 EDIBLE PROBABILITY: 2.2635937728416e-09
+2 POISONOUS PROBABILITY: 4.8665818594419e-52
+2 CLASS: edible
+
+3 INPUT: bell, smooth, white, yes, anise, free, close, broad, brown, enlarging, club, smooth, smooth, white, white, partial, white, one, pendant, brown, numerous, meadows
+3 EDIBLE PROBABILITY: 4.1804027509847e-10
+3 POISONOUS PROBABILITY: 5.5445581030416e-55
+3 CLASS: edible
+
+4 INPUT: convex, scaly, white, yes, pungent, free, close, narrow, brown, enlarging, equal, smooth, smooth, white, white, partial, white, one, pendant, black, scattered, urban
+4 EDIBLE PROBABILITY: 2.694499711715e-29
+4 POISONOUS PROBABILITY: 8.63015614588e-14
+4 CLASS: poisonous
+
+5 INPUT: convex, smooth, gray, no, none, free, crowded, broad, black, tapering, equal, smooth, smooth, white, white, partial, white, one, evanescent, brown, abundant, grasses
+5 EDIBLE PROBABILITY: 8.7268423270241e-09
+5 POISONOUS PROBABILITY: 3.725407224109e-33
+5 CLASS: edible
+
+6 INPUT: convex, scaly, yellow, yes, almond, free, close, broad, brown, enlarging, club, smooth, smooth, white, white, partial, white, one, pendant, black, numerous, grasses
+6 EDIBLE PROBABILITY: 7.6515326406838e-09
+6 POISONOUS PROBABILITY: 1.0494859604816e-51
+6 CLASS: edible
+
+7 INPUT: bell, smooth, white, yes, almond, free, close, broad, gray, enlarging, club, smooth, smooth, white, white, partial, white, one, pendant, black, numerous, meadows
+7 EDIBLE PROBABILITY: 1.0466577263306e-10
+7 POISONOUS PROBABILITY: 2.4950511463687e-54
+7 CLASS: edible
+
+8 INPUT: bell, scaly, white, yes, anise, free, close, broad, brown, enlarging, club, smooth, smooth, white, white, partial, white, one, pendant, brown, scattered, meadows
+8 EDIBLE PROBABILITY: 1.2091011033617e-09
+8 POISONOUS PROBABILITY: 6.4207627973195e-36
+8 CLASS: edible
+
+9 INPUT: convex, scaly, white, yes, pungent, free, close, narrow, pink, enlarging, equal, smooth, smooth, white, white, partial, white, one, pendant, black, several, grasses
+9 EDIBLE PROBABILITY: 4.8726687949116e-28
+9 POISONOUS PROBABILITY: 1.0383304416654e-11
+9 CLASS: poisonous
+
+10 INPUT: bell, smooth, yellow, yes, almond, free, close, broad, gray, enlarging, club, smooth, smooth, white, white, partial, white, one, pendant, black, scattered, meadows
+10 EDIBLE PROBABILITY: 1.2792483321818e-10
+10 POISONOUS PROBABILITY: 4.9238394430893e-35
+10 CLASS: edible
+
+11 INPUT: convex, scaly, yellow, yes, anise, free, close, broad, gray, enlarging, club, smooth, smooth, white, white, partial, white, one, pendant, brown, numerous, grasses
+11 EDIBLE PROBABILITY: 2.145426005549e-09
+11 POISONOUS PROBABILITY: 4.7226868221673e-51
+11 CLASS: edible
+
+12 INPUT: convex, scaly, yellow, yes, almond, free, close, broad, brown, enlarging, club, smooth, smooth, white, white, partial, white, one, pendant, black, scattered, meadows
+12 EDIBLE PROBABILITY: 3.0606130562735e-09
+12 POISONOUS PROBABILITY: 4.797915000297e-34
+12 CLASS: edible
+
+13 INPUT: bell, smooth, yellow, yes, almond, free, close, broad, b'w', enlarging, club, smooth, smooth, white, white, partial, white, one, pendant, brown, scattered, grasses
+13 EDIBLE PROBABILITY: 1.2633709092553e-28
+13 POISONOUS PROBABILITY: 7.8640315761474e-53
+13 CLASS: edible
+
+14 INPUT: convex, scaly, white, yes, pungent, free, close, narrow, black, enlarging, equal, smooth, smooth, white, white, partial, white, one, pendant, brown, several, urban
+14 EDIBLE PROBABILITY: 1.4195267855345e-29
+14 POISONOUS PROBABILITY: 3.8165659477432e-13
+14 CLASS: poisonous
+
+15 INPUT: convex, fibrous, brown, no, none, free, crowded, broad, brown, tapering, equal, smooth, fibrous, white, white, partial, white, one, evanescent, black, abundant, grasses
+15 EDIBLE PROBABILITY: 5.0261695932731e-09
+15 POISONOUS PROBABILITY: 4.1528934058951e-34
+15 CLASS: edible
+
+16 INPUT: sunken, fibrous, gray, no, none, free, close, narrow, black, enlarging, equal, smooth, smooth, white, white, partial, white, one, pendant, brown, solitary, urban
+16 EDIBLE PROBABILITY: 1.3259610089437e-11
+16 POISONOUS PROBABILITY: 5.4300628061972e-33
+16 CLASS: edible
+
+17 INPUT: flat, fibrous, white, no, none, free, crowded, broad, black, tapering, equal, smooth, smooth, white, white, partial, white, one, evanescent, brown, abundant, grasses
+17 EDIBLE PROBABILITY: 6.802247612631e-09
+17 POISONOUS PROBABILITY: 7.2345744756072e-34
+17 CLASS: edible
+
+18 INPUT: convex, smooth, brown, yes, pungent, free, close, narrow, brown, enlarging, equal, smooth, smooth, white, white, partial, white, one, pendant, black, scattered, grasses
+18 EDIBLE PROBABILITY: 5.2771851170321e-28
+18 POISONOUS PROBABILITY: 6.0731933955462e-13
+18 CLASS: poisonous
+
+19 INPUT: convex, scaly, white, yes, pungent, free, close, narrow, brown, enlarging, equal, smooth, smooth, white, white, partial, white, one, pendant, brown, scattered, urban
+19 EDIBLE PROBABILITY: 2.8514608599702e-29
+19 POISONOUS PROBABILITY: 8.63015614588e-14
+19 CLASS: poisonous
+
+20 INPUT: convex, smooth, brown, yes, pungent, free, close, narrow, black, enlarging, equal, smooth, smooth, white, white, partial, white, one, pendant, brown, scattered, urban
+20 EDIBLE PROBABILITY: 1.3994029150842e-29
+20 POISONOUS PROBABILITY: 1.2756050992962e-13
+20 CLASS: poisonous
+
+21 INPUT: bell, smooth, yellow, yes, almond, free, close, broad, black, enlarging, club, smooth, smooth, white, white, partial, white, one, pendant, brown, scattered, meadows
+21 EDIBLE PROBABILITY: 1.8778067437946e-10
+21 POISONOUS PROBABILITY: 6.252494530907e-36
+21 CLASS: edible
+
+22 INPUT: convex, scaly, brown, yes, pungent, free, close, narrow, brown, enlarging, equal, smooth, smooth, white, white, partial, white, one, pendant, brown, several, grasses
+22 EDIBLE PROBABILITY: 9.9450506022843e-28
+22 POISONOUS PROBABILITY: 5.791936994915e-12
+22 CLASS: poisonous
+
+23 INPUT: bell, scaly, yellow, yes, anise, free, close, broad, black, enlarging, club, smooth, smooth, white, white, partial, white, one, pendant, brown, scattered, meadows
+23 EDIBLE PROBABILITY: 2.4687249498839e-10
+23 POISONOUS PROBABILITY: 7.7049153567834e-36
+23 CLASS: edible
+
+24 INPUT: bell, scaly, white, yes, almond, free, close, broad, b'w', enlarging, club, smooth, smooth, white, white, partial, white, one, pendant, brown, numerous, meadows
+24 EDIBLE PROBABILITY: 2.4708126665434e-29
+24 POISONOUS PROBABILITY: 2.3889449985348e-73
+24 CLASS: edible
+
+25 INPUT: bell, smooth, white, yes, anise, free, close, broad, gray, enlarging, club, smooth, smooth, white, white, partial, white, one, pendant, black, scattered, meadows
+25 EDIBLE PROBABILITY: 2.3026469979273e-10
+25 POISONOUS PROBABILITY: 2.3446854490901e-35
+25 CLASS: edible
+
+26 INPUT: flat, smooth, white, yes, pungent, free, close, narrow, brown, enlarging, equal, smooth, smooth, white, white, partial, white, one, pendant, brown, several, grasses
+26 EDIBLE PROBABILITY: 3.530323815051e-28
+26 POISONOUS PROBABILITY: 1.3433241120988e-12
+26 CLASS: poisonous
+
+27 INPUT: convex, scaly, red, no, spicy, attached, close, narrow, black, tapering, unequal, smooth, smooth, white, white, partial, white, one, pendant, red, several, woods
+27 EDIBLE PROBABILITY: 2.57102046214e-88
+27 POISONOUS PROBABILITY: 2.339501956788e-70
+27 CLASS: poisonous
+
+28 INPUT: flat, fibrous, orange, no, none, attached, close, broad, brown, enlarging, clubbed, scaly, silky, yellow, yellow, partial, yellow, one, free, brown, numerous, meadows
+28 EDIBLE PROBABILITY: 1.4445991638499e-131
+28 POISONOUS PROBABILITY: 3.778146735632e-102
+28 CLASS: poisonous
+
+29 INPUT: convex, smooth, yellow, no, none, free, close, broad, brown, enlarging, clubbed, smooth, smooth, white, white, partial, white, one, pendant, black, scattered, urban
+29 EDIBLE PROBABILITY: 3.2342694075514e-28
+29 POISONOUS PROBABILITY: 4.2326095536286e-32
+29 CLASS: edible
+
+30 INPUT: bell, scaly, white, no, none, free, close, narrow, black, tapering, unequal, fibrous, silky, yellow, yellow, partial, yellow, one, free, red, several, grasses
+30 EDIBLE PROBABILITY: 5.5106059367504e-130
+30 POISONOUS PROBABILITY: 1.7703117001872e-78
+30 CLASS: poisonous
+
+31 INPUT: flat, smooth, brown, no, spicy, free, close, broad, brown, enlarging, equal, smooth, smooth, white, white, partial, white, one, pendant, brown, numerous, woods
+31 EDIBLE PROBABILITY: 4.4760245188535e-47
+31 POISONOUS PROBABILITY: 2.8136365437059e-50
+31 CLASS: edible
+
+32 INPUT: bell, scaly, white, no, anise, free, close, broad, black, tapering, unequal, smooth, smooth, white, white, partial, white, one, pendant, brown, numerous, urban
+32 EDIBLE PROBABILITY: 5.2828241506105e-30
+32 POISONOUS PROBABILITY: 1.4696435582948e-71
+32 CLASS: edible
+
+33 INPUT: flat, smooth, brown, no, none, free, close, broad, brown, enlarging, clubbed, smooth, smooth, white, white, partial, white, one, free, red, several, grasses
+33 EDIBLE PROBABILITY: 5.6707468613366e-66
+33 POISONOUS PROBABILITY: 1.0338630262264e-68
+33 CLASS: edible
+
+34 INPUT: flat, fibrous, yellow, no, none, free, close, broad, brown, tapering, unequal, smooth, smooth, white, white, partial, white, one, pendant, brown, several, woods
+34 EDIBLE PROBABILITY: 3.6416625214873e-46
+34 POISONOUS PROBABILITY: 2.4536448526115e-50
+34 CLASS: edible
+
+35 INPUT: convex, scaly, red, no, spicy, free, close, narrow, brown, enlarging, clubbed, scaly, silky, yellow, yellow, partial, yellow, one, pendant, brown, scattered, meadows
+35 EDIBLE PROBABILITY: 7.8821323126483e-112
+35 POISONOUS PROBABILITY: 5.6826613570649e-41
+35 CLASS: poisonous
+
+36 INPUT: bell, smooth, white, no, none, free, close, narrow, black, tapering, unequal, smooth, smooth, white, white, partial, white, one, pendant, red, numerous, urban
+36 EDIBLE PROBABILITY: 6.0690345354365e-50
+36 POISONOUS PROBABILITY: 8.3977920407658e-72
+36 CLASS: edible
+
+37 INPUT: convex, fibrous, brown, no, none, free, crowded, broad, red, tapering, equal, smooth, fibrous, white, white, partial, white, one, evanescent, black, abundant, urban
+37 EDIBLE PROBABILITY: 3.5148039113798e-11
+37 POISONOUS PROBABILITY: 5.3371895717615e-53
+37 CLASS: edible
+
+38 INPUT: sunken, smooth, brown, yes, almond, attached, n/a, flat, brown, enlarging, equal, scaly, smooth, white, brown, partial, white, one, pendant, black, scattered, meadows
+38 EDIBLE PROBABILITY: 1.5232299781323e-55
+38 POISONOUS PROBABILITY: 1.2046300030003e-97
+38 CLASS: edible
+
+39 INPUT: convex, smooth, white, no, none, free, crowded, broad, brown, enlarging, equal, silky, smooth, white, brown, partial, white, one, pendant, brown, scattered, urban
+39 EDIBLE PROBABILITY: 4.7251303295784e-12
+39 POISONOUS PROBABILITY: 1.5005705293079e-15
+39 CLASS: edible
+
+40 INPUT: sunken, fibrous, white, no, none, free, crowded, broad, brown, tapering, equal, smooth, smooth, yellow, white, partial, white, one, evanescent, brown, abundant, grasses
+40 EDIBLE PROBABILITY: 5.6743253831786e-30
+40 POISONOUS PROBABILITY: 1.4889165509855e-55
+40 CLASS: edible
+
+41 INPUT: flat, scaly, red, yes, pungent, free, close, narrow, white, club, smooth, smooth, smooth, yellow, white, partial, white, one, pendant, black, solitary, urban
+41 EDIBLE PROBABILITY: 2.0167713926447e-107
+41 POISONOUS PROBABILITY: 1.9522003304724e-72
+41 CLASS: poisonous
+
+42 INPUT: convex, fibrous, yellow, no, none, free, crowded, narrow, red, tapering, equal, scaly, fibrous, white, brown, partial, white, one, pendant, brown, abundant, meadows
+42 EDIBLE PROBABILITY: 7.5023273021225e-16
+42 POISONOUS PROBABILITY: 3.921255606706e-57
+42 CLASS: edible
+
+43 INPUT: flat, crispy, sweet, no, medium, free, close, narrow, green, tapering, equal, smooth, smooth, white, white, partial, white, one, pendant, black, abundant, orchard
+43 EDIBLE PROBABILITY: 2.6342241348049e-106
+43 POISONOUS PROBABILITY: 6.0869994646055e-109
+43 CLASS: edible
+
+44 INPUT: flat, smooth, yellow, yes, none, attached, crowded, broad, red, none, equal, scaly, fibrous, white, white, partial, white, one, pendant, brown, solitary, forest
+44 EDIBLE PROBABILITY: 1.7319810768697e-52
+44 POISONOUS PROBABILITY: 5.7948863220333e-78
+44 CLASS: edible
+
+45 INPUT: bell, spongy, gray, no, foul, free, close, narrow, brown, club, equal, scaly, scaly, yellow, yellow, partial, yellow, one, evanescent, brown, scattered, meadows
+45 EDIBLE PROBABILITY: 1.8681282507288e-132
+45 POISONOUS PROBABILITY: 1.2769544673973e-63
+45 CLASS: poisonous
+
+46 INPUT: convex, fibrous, brown, no, foul, free, close, broad, brown, club, equal, smooth, smooth, white, white, partial, white, one, pendant, black, abundant, forest
+46 EDIBLE PROBABILITY: 1.7598004758041e-66
+46 POISONOUS PROBABILITY: 1.2848295461687e-69
+46 CLASS: edible
+
+47 INPUT: sunken, crispy, green, no, none, free, close, narrow, red, enlarging, equal, smooth, smooth, white, white, partial, white, one, evanescent, brown, scattered, orchard
+47 EDIBLE PROBABILITY: 1.7941337984765e-52
+47 POISONOUS PROBABILITY: 1.4698285166153e-108
+47 CLASS: edible
+
+48 INPUT: flat, fibrous, white, yes, none, free, close, narrow, green, tapering, equal, smooth, smooth, white, white, partial, white, one, pendant, brown, abundant, orchard
+48 EDIBLE PROBABILITY: 2.7068147832441e-47
+48 POISONOUS PROBABILITY: 5.6071838221546e-53
+48 CLASS: edible
+
